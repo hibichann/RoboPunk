@@ -15,5 +15,6 @@ npx hardhat run scripts/deploy.js
 # to run site
 
 ```shell
+yarn
 yarn start
 ```
