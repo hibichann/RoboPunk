@@ -18,4 +18,5 @@ npx hardhat run scripts/deploy.js
 yarn
 yarn start
 ```
->合约部署在goerli测试网，可以自行查看contracts文件夹，前端页面采用React+tailwindcss制作，合约使用solidity+hardhat
+>合约部署在goerli测试网，可以自行查看contracts文件夹
+>前端页面采用React+chakra UI，合约使用solidity+hardhat
